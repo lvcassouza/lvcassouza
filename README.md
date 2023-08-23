@@ -2,7 +2,7 @@
 
 ### A little about myself...
 
-I'm an early-career mobile developer, focused on developing software for mobile devices using React Native and Xcode. I'm thrilled to share with you the projects I've been working on as I dive headfirst into this amazing world of mobile programming.
+I'm a mobile developer, focused on developing software for mobile devices using React Native and Xcode. I'm thrilled to share with you the projects I've been working on as I dive headfirst into this amazing world of mobile programming.
 
 My goal is to learn and improve my skills in React Native and Xcode, and what better way to do that than getting my hands dirty, right? That's why I've decided to create repositories where I store my projects related to my studies in these technologies. These projects are diverse and allow me to truly practice my skills and develop my abilities.
 
